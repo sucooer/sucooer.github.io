@@ -1,0 +1,45 @@
+{
+	"head": {
+		"title": "Anyaer",
+		"description": "Author:Anyaer,Category:Personal Blog",
+		"favicon": "favicon.ico"
+	},
+	"intro": {
+		"title": "Anyaer",
+		"subtitle": "Front back left right end engineer",
+		"enter": "enter",
+		"supportAuthor": true,
+		"background": true
+	},
+	"main": {
+		"name": "Anyaer",
+		"signature": "Code & Input & Output",
+		"avatar": {
+			"link": "assets/avatar.jpg",
+			"height": "100",
+			"width": "100"
+		},
+		"ul": {
+			"first": {
+				"href": "https://miss.520717.xyz",
+				"icon": "blog",
+				"text": "Blog"
+			},
+			"second": {
+				"href": "https://space.bilibili.com/35460208?spm_id_from=333.33.0.0",
+				"icon": "bilibili",
+				"text": "BiliBili"
+			},
+			"third": {
+				"href": "mailto:saitobin@outlook.com",
+				"icon": "email",
+				"text": "Email"
+			},
+			"fourth": {
+				"href": "https://github.com/sucooer",
+				"icon": "github",
+				"text": "Github"
+			}
+		}
+	}
+}
